@@ -1,6 +1,5 @@
 import "dotenv/config";
 import { InstallGlobalCommands } from "./utils.js";
-import { allChampList } from "./getdata/index.js";
 
 const ALL_CHAMP_COMMAND = {
   name: "올챔",
